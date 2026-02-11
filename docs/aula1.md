@@ -16,7 +16,9 @@ b. criar pasta docs e dentro da pasta criar um arquivo aula1.md
 ```sh
 git add *
 ```
-3. Uma vez que foram adicionado, estão aptos a serem incluídos em um commit
+3. Finalizando trabalho(parcialmente) local 
+
+Uma vez que foram adicionado, estão aptos a serem incluídos em um **commit**
 
 *Definição de commit
 Comando para commitar
@@ -27,3 +29,18 @@ git commit -m 'mensagem do commit'
 ## Segue os trabalhos
 git add *
 git commit -m 'add mensagem' 
+
+##Possíveis problemas
+
+
+```sh
+git config user.name
+git config user.email 
+```
+
+Vamos configurar localmente usuário e email. Use o email do seu usuário no github.
+
+```sh
+git config --local user.name "Eduardo"
+git config --local user.email "eduardocaiods88@gmail.com"
+```
