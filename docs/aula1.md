@@ -22,7 +22,7 @@ Uma vez que foram adicionado, estão aptos a serem incluídos em um **commit**
 
 *Definição de commit
 Comando para commitar
-```
+```sh
 git commit -m 'mensagem do commit'
 ```
 

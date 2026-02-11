@@ -8,6 +8,12 @@ git remote add origin https://github.com/occaio/projetoPWEB.git
 git branch -M main
 git push -u origin main
 ```
+Para enviar atualizações no seu repositório, execute: 
+```sh
+git add *
+git commit -m 'Mensagem'
+git push origin main
+```
 Dando tudo certo no seu repositório na nuvem(github) vai ter seus arquivos  atualizados.
 
 ## E dando errado
